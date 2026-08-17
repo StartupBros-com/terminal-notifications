@@ -4,7 +4,7 @@
 
 Cross-platform notification scripts for Mac, Windows (WSL2), and Linux—plus integration guides for Claude Code, ntfy.sh, and Slack.
 
-📖 **Full tutorial**: [startupbros.com/terminal-notifications](https://startupbros.com/terminal-notifications/)
+📖 **Full tutorial**: [startupbros.com/claude-code-notifications](https://startupbros.com/claude-code-notifications/)
 
 ## Quick Start
 
@@ -122,4 +122,4 @@ MIT - Do whatever you want with it.
 
 ---
 
-Made by [StartupBros](https://startupbros.com) · [Full Tutorial](https://startupbros.com/terminal-notifications/)
+Made by [StartupBros](https://startupbros.com) · [Full Tutorial](https://startupbros.com/claude-code-notifications/)
